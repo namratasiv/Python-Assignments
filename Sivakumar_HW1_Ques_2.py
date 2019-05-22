@@ -1,5 +1,5 @@
 # Namrata Sivakumar
-# nxs8168
+
 
 user_input = int(input("Please enter a number (1 through 7):"))
 
