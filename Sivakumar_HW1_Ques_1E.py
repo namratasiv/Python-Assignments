@@ -1,5 +1,5 @@
 # Namrata Sivakumar
-# nxs8168
+
 # North, South, East, West
 import turtle
 
