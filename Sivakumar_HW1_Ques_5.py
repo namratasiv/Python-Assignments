@@ -1,7 +1,6 @@
 #Namrata Sivakumar
 
-# Namrata Sivakumar
-# nxs8168
+
 
 selling_price = 99.00
 
