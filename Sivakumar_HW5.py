@@ -1,4 +1,4 @@
-# Namrata Sivakumar - 1001508168
+# Namrata Sivakumar 
 # Pythogorean Calculator
 # PY Homework #5
 
