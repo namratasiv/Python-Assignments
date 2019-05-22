@@ -1,4 +1,4 @@
-#Namrata Sivakumar, nxs8168, 1001508168
+
 #Python Homework 2, Question 2
 #Python Version 3.7.x
 import os
