@@ -1,6 +1,6 @@
 
 # Namrata Sivakumar
-# nxs8168
+
 #Rings
 
 import turtle
