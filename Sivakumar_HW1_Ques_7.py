@@ -1,5 +1,4 @@
 # Namrata Sivakumar
-# nxs8168
 
 vegetarian = input("Is anyone in your party a vegetarian? ")
 vegan = input("Is anyone in your party a vegan? ")
