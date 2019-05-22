@@ -1,5 +1,5 @@
 # Namrata Sivakumar
-# nxs8168
+
 #Triangle
 import turtle
 
