@@ -1,5 +1,5 @@
 # Namrata Sivakumar
-# nxs8168
+
 
 color1 = input("Enter first color: ")
 color2 = input("Enter second color: ")
