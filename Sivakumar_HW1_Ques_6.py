@@ -1,5 +1,5 @@
 # Namrata Sivakumar
-# nxs8168
+
 
 
 sec = int(input("Enter the number of seconds: "))
