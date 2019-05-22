@@ -1,1 +1,1 @@
-# Python-Assignments-INSY5336
+# Python-Assignments
