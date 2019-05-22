@@ -1,4 +1,4 @@
-# Namrata Sivakumar, 1001508168
+# Namrata Sivakumar
 
 # The Employee Class holds employee information - name, ID_number, dept, job_title.
 
