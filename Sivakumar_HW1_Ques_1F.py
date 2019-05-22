@@ -1,5 +1,5 @@
 # Namrata Sivakumar
-# nxs8168
+
 #Square with dots
 
 import turtle
