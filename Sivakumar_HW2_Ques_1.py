@@ -1,4 +1,4 @@
-#Namrata Sivakumar, nxs8168, 1001508168
+
 #Python Homework 2, Question 1
 #Python Version 3.7.x
 def calc_average(s1, s2, s3, s4, s5):
